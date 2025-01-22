@@ -1,8 +1,11 @@
-# 🚀 Excel Project: Call Center Data Analysis Dashboard 📊📞 
+# 🚀 Excel Project: Call Center Data Analysis Dashboard 
+
+![call centre data analysis excel project](https://github.com/user-attachments/assets/f642e03e-1ceb-4ebd-bd9c-0f183eaf7cb4)
 
 Excited to share my latest Excel project where I designed and developed a comprehensive Call Center Data Analysis Dashboard. The goal was to analyze customer service call data and provide actionable insights to enhance operational efficiency and customer satisfaction. Here are the key highlights of the project:
 
 Key Insights:
+
 📅 Call Count by Month: Tracked monthly call volume to identify trends and peak demand periods.
 📆 Call Count by Weekdays: Analyzed calls by weekdays to uncover peak operating days, helping optimize staffing schedules.
 🌆 Call Count by City & Gender: Provided a breakdown of call distribution by geographical locations and demographics (city & gender), helping target areas for improvement.
@@ -38,4 +41,4 @@ This dashboard empowers call center managers to:
 🌟 Improve customer satisfaction: Use customer feedback data to enhance the overall customer service experience.
 By leveraging the power of Excel to visualize data, this project provides a complete view of call center performance and helps drive better decision-making.
 
-![call centre data analysis excel project](https://github.com/user-attachments/assets/f642e03e-1ceb-4ebd-bd9c-0f183eaf7cb4)
+

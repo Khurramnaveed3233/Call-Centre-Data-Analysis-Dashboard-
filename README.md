@@ -7,8 +7,11 @@ Excited to share my latest Excel project where I designed and developed a compre
 Key Insights:
 
 📅 Call Count by Month: Tracked monthly call volume to identify trends and peak demand periods.
-📆 Call Count by Weekdays: Analyzed calls by weekdays to uncover peak operating days, helping optimize staffing schedules.
+
+📆 Call Count by Weekdays: Analyzed calls by weekdays to uncover peak operating days, helping optimize staffing schedules
+
 🌆 Call Count by City & Gender: Provided a breakdown of call distribution by geographical locations and demographics (city & gender), helping target areas for improvement.
+
 ⭐ Call Count by Rating: Captured customer feedback and satisfaction through call ratings, allowing the identification of service quality issues.
 
 KPIs (Key Performance Indicators):

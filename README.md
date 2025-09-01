@@ -1,4 +1,4 @@
-# 🚀 Excel Project: Call Center Data Analysis Dashboard - Portfolio Project
+#  Excel Project: Call Center Data Analysis Dashboard - Portfolio Project
 
 ![call centre data analysis excel project](https://github.com/user-attachments/assets/f642e03e-1ceb-4ebd-bd9c-0f183eaf7cb4)
 
